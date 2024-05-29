@@ -40,13 +40,6 @@ en: &DEFAULT_EN
     - **Comprehensive**: The book covers the typical topics included statics courses, including both two- and three- dimensional topics and multiple approches to shear and moment diagrams."
     section: about
 
-  about:
-    title: "Our story"
-    text: "Many hands make light(er) work."
-    body: "Engineering Statics: Open and Interactive is the vision of a handful of instructors who wanted to create a free and open Engineering Statics textbook filled with dynamic, interactive diagrams to encourage visualization and engineering intuition.
-    Daniel (Dan) Baker (@drdanteaches on [YouTube](https://www.youtube.com/channel/UC4Z8tnZs5fGlEs1CYjw9JyQ), [LinkedIn](https://www.linkedin.com/in/drdanteaches/), and [Twitter/X](https://twitter.com/drdanteaches)) launched the project in late 2018 and coordinated a [team of engineering faculty](https://engineeringstatics.org/acknowledgement.html) from large public universities, small private colleges, and community colleges across the United States to write the text and create the interactive elements. Multiple chapters were adapted with permission from Jacob Moore’s [Mechanics Map - Open Textbook Project](http://mechanicsmap.psu.edu/). William Haynes was a chapter author and then published the book using [PreTeXt](https://pretextbook.org/). The book was released to the public in Fall 2020. The book continues to evolve thanks to the contributions, suggestions, and corrections made by users of the text, both professors and students."
-    section: about
-
   team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
